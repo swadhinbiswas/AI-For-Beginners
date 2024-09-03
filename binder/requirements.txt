@@ -3,7 +3,7 @@ gym==0.23.1
 huggingface==0.0.1
 imageio==2.16.2
 keras==2.13.1rc0
-nltk==3.8.1
+nltk==3.8.2
 pandas==1.4.2
 pillow==10.3.0
 pygame==2.1.2
@@ -20,9 +20,11 @@ tokenizers==0.10.3
 torchinfo==0.0.8
 tqdm==4.66.3
 transformers==4.37.0
-requests>=2.32.0 # not directly required, pinned by Snyk to avoid a vulnerability
+requests>=2.32.2 # not directly required, pinned by Snyk to avoid a vulnerability
 fonttools>=4.43.0 # not directly required, pinned by Snyk to avoid a vulnerability
 numpy>=1.22.2 # not directly required, pinned by Snyk to avoid a vulnerability
 werkzeug>=3.0.3 # not directly required, pinned by Snyk to avoid a vulnerability
 wheel>=0.38.0 # not directly required, pinned by Snyk to avoid a vulnerability
 zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
+urllib3>=2.2.2 # not directly required, pinned by Snyk to avoid a vulnerability
